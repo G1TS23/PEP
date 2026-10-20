@@ -20,12 +20,8 @@ Avant de considérer une tâche terminée, relis le texte avec `docs/modeles/che
 
 ## Langue
 
-- Code, identifiants, commentaires, messages de commit, noms de branches et titres de PR : **anglais**.
-- Documentation (README, docs/) : **français**.
-- Réponses à l'utilisateur : français.
-
-<!-- Repo existant dont la langue diffère : remplacer le bloc ci-dessus par
-"Suis la langue déjà utilisée dans ce projet (code, commits, doc)." -->
+- Tout est en **français** : documentation, messages de commit, descriptions de PR, noms de branches et réponses à l'utilisateur.
+- Seuls les mots-clés techniques restent en anglais : types Conventional Commits (`docs`, `feat`…), préfixes de branche (`docs/`, `chore/`) et le trailer `Co-Authored-By`.
 
 ## Stack et outillage
 
@@ -68,7 +64,7 @@ Hors projet Node : `git config core.hooksPath .githooks` une fois après le clon
 
 ## Git et branches
 
-- Ne travaille **jamais** directement sur `main`. Crée une branche : `feat/...`, `fix/...`, `docs/...`, `chore/...` (kebab-case, anglais).
+- Ne travaille **jamais** directement sur `main`. Crée une branche : `feat/...`, `fix/...`, `docs/...`, `chore/...` (kebab-case, français sans accents).
 - Tu peux commiter et pousser sur ta branche de travail sans demander.
 - Ouvre une PR vers `main` : titre au format Conventional Commits, description courte (contexte, changements, comment tester).
 - Merge en **squash**. Tu ne merges jamais toi-même une PR : c'est l'utilisateur qui merge.
