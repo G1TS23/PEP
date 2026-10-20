@@ -1,17 +1,22 @@
-# <Nom du projet>
+# PEP
 
-<Une phrase : ce que fait le projet et pour qui.>
+Rédaction des trois livrables du Projet d'Étude Professionnel (Mastère EADL, RNCP39765, EFREI) : rapports Mission 1, Mission 2 et PEP, plus la soutenance.
 
 ## Stack et commandes
 
-- Stack : <langage, framework, runtime>
-- Installer : `<cmd>`
-- Dev : `<cmd>`
-- Tests : `<cmd>`
-- Lint / format : `<cmd>`
-- Build : `<cmd>`
+- Stack : Markdown, conversion en PDF avec `pandoc` (non installé par défaut, à valider avant usage).
+- Installer, dev, tests, lint : aucun.
+- Build : `pandoc docs/mission-2/rapport.md -o build/EADL_Mission2_Nom_Prenom.pdf` (exemple, non testé).
 
-Avant de considérer une tâche terminée, lance les tests et le lint, et corrige ce qui échoue.
+Avant de considérer une tâche terminée, relis le texte avec `docs/modeles/checklist-grille.md`.
+
+## Spécificités du projet
+
+- Source de référence : l'Annexe 1 du PEP, résumée dans `docs/guide-livrables-pep.md`.
+- Un dossier par mission dans `docs/` : `plan.md`, `rapport.md`, `annexes/`. Modèles dans `docs/modeles/`, sources dans `docs/sources/`, soutenance dans `docs/oral/`.
+- N'invente jamais de fait sur l'entreprise, le projet ou les chiffres : laisse `<à compléter>`.
+- Aucune donnée confidentielle d'entreprise dans le dépôt.
+- Pas de code dans le corps des rapports (l'école le déconseille) : annexes seulement.
 
 ## Langue
 
