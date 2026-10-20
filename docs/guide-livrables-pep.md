@@ -120,9 +120,22 @@ Devant un jury de professionnels et de représentants pédagogiques. Le jury ne 
 
 ## Points à clarifier avec l'école
 
-- **Durée de la soutenance** : 25 min + 20 min de questions (description de la Mission 3), 30 min de présentation dans le déroulé recommandé (somme des étapes : 30 min), 15 min dans les minorations de la grille. Total annoncé : 45 minutes.
-- **Format de dépôt de la Mission 1** : le nom de fichier n'est pas indiqué.
-- **Grille de la Mission 2** : les critères détaillés ne correspondent pas tout à fait au plan demandé.
+Brouillon de message, sans destinataire.
+
+> **Objet : Questions sur l'Annexe 1 du PEP (EADL, RNCP39765)**
+>
+> Bonjour,
+>
+> En préparant mes livrables à partir de l'Annexe 1, j'ai relevé quelques points qui me semblent incohérents ou ambigus, et sur lesquels j'aimerais votre confirmation :
+>
+> 1. **Durée de la soutenance (p. 123 et 126-127).** Le document annonce 25 min de présentation + 20 min de questions (p. 123), une soutenance de 45 min dont une structure recommandée de 30 min (p. 126), et un critère de minoration sur le « respect de la durée (15 mn) » (p. 127). Quelle durée de présentation faut-il respecter ?
+> 2. **Grille d'évaluation de la Mission 2 (p. 122).** Les critères du « compte-rendu » (environnement, méthodologie, cartographie du SI…) reprennent ceux de la Mission 1. Ils ne correspondent pas au plan demandé p. 120-121 (architecture et conception, réalisation et preuves, bilan critique). Quels critères seront réellement appliqués ?
+> 3. **Format de dépôt de la Mission 1 (p. 118).** Les Missions 2 et 3 précisent un nom de fichier PDF, mais pas la Mission 1. Quel format et quel nom utiliser ?
+> 4. **Barème du rapport d'amélioration continue (p. 126).** L'échelle va de 1 à 9, alors que les autres critères commencent à 0. S'agit-il d'un minimum garanti de 1 point, ou d'une coquille ?
+> 5. **Soutenance et livrables précédents (p. 126).** Le déroulé consacre 5 min à la Mission 1 et 7 min à la Mission 2, mais la grille orale (p. 127) évalue le fond sur « compte rendu » et « travail réalisé ». Le rapport de la Mission 3 est-il bien le support principal de l'oral ?
+>
+> Merci d'avance.
+> Cordialement,
 
 ## Checklist avant dépôt
 
