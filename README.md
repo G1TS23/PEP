@@ -8,6 +8,7 @@ Base de démarrage de mes projets : instructions pour Claude, hook de commit et 
 docs/
   guide-livrables-pep.md     résumé de l'Annexe 1 et questions pour l'école
   ia-declaration.md          journal d'usage de l'IA (exigé par l'école)
+  echeances.md               dates clés du PEP (groupe G1) et jalons
   mission-1/                 plan.md, rapport.md (à écrire), annexes/
   mission-2/                 idem
   mission-3/                 idem
