@@ -1,26 +1,30 @@
-# <Nom du projet>
+# PEP
 
-<Une phrase : ce que fait le projet et pour qui.>
+Rédaction des trois livrables du Projet d'Étude Professionnel (Mastère EADL, RNCP39765, EFREI) : rapports Mission 1, Mission 2 et PEP, plus la soutenance.
 
 ## Stack et commandes
 
-- Stack : <langage, framework, runtime>
-- Installer : `<cmd>`
-- Dev : `<cmd>`
-- Tests : `<cmd>`
-- Lint / format : `<cmd>`
-- Build : `<cmd>`
+- Stack : Markdown, conversion en PDF avec `pandoc` (non installé par défaut, à valider avant usage).
+- Installer, dev, tests, lint : aucun.
+- Build : `pandoc docs/mission-2/rapport.md -o build/EADL_Mission2_Nom_Prenom.pdf` (exemple, non testé).
 
-Avant de considérer une tâche terminée, lance les tests et le lint, et corrige ce qui échoue.
+Avant de considérer une tâche terminée, relis le texte avec `docs/modeles/checklist-grille.md`.
+
+## Spécificités du projet
+
+- Source de référence : l'Annexe 1 du PEP, résumée dans `docs/guide-livrables-pep.md`.
+- Un dossier par mission dans `docs/` : `plan.md`, `rapport.md`, `annexes/`. Modèles dans `docs/modeles/`, sources dans `docs/sources/`, soutenance dans `docs/oral/`.
+- N'invente jamais de fait sur l'entreprise, le projet ou les chiffres : laisse `<à compléter>`.
+- Aucune donnée confidentielle d'entreprise dans le dépôt.
+- Anonymise ou généralise tout ce qui vient de l'entreprise (clients, chiffres précis, personnes), comme l'exige l'école.
+- Chaque session de travail ajoute une ligne à `docs/ia-declaration.md` (la colonne « Vérification humaine » reste à remplir par l'utilisateur).
+- Mise en forme finale des rapports : Times New Roman 12, interligne 1,5.
+- Pas de code dans le corps des rapports (l'école le déconseille) : annexes seulement.
 
 ## Langue
 
-- Code, identifiants, commentaires, messages de commit, noms de branches et titres de PR : **anglais**.
-- Documentation (README, docs/) : **français**.
-- Réponses à l'utilisateur : français.
-
-<!-- Repo existant dont la langue diffère : remplacer le bloc ci-dessus par
-"Suis la langue déjà utilisée dans ce projet (code, commits, doc)." -->
+- Tout est en **français** : documentation, messages de commit, descriptions de PR, noms de branches et réponses à l'utilisateur.
+- Seuls les mots-clés techniques restent en anglais : types Conventional Commits (`docs`, `feat`…), préfixes de branche (`docs/`, `chore/`) et le trailer `Co-Authored-By`.
 
 ## Stack et outillage
 
@@ -63,7 +67,7 @@ Hors projet Node : `git config core.hooksPath .githooks` une fois après le clon
 
 ## Git et branches
 
-- Ne travaille **jamais** directement sur `main`. Crée une branche : `feat/...`, `fix/...`, `docs/...`, `chore/...` (kebab-case, anglais).
+- Ne travaille **jamais** directement sur `main`. Crée une branche : `feat/...`, `fix/...`, `docs/...`, `chore/...` (kebab-case, français sans accents).
 - Tu peux commiter et pousser sur ta branche de travail sans demander.
 - Ouvre une PR vers `main` : titre au format Conventional Commits, description courte (contexte, changements, comment tester).
 - Merge en **squash**. Tu ne merges jamais toi-même une PR : c'est l'utilisateur qui merge.
