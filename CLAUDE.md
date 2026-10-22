@@ -16,6 +16,9 @@ Avant de considérer une tâche terminée, relis le texte avec `docs/modeles/che
 - Un dossier par mission dans `docs/` : `plan.md`, `rapport.md`, `annexes/`. Modèles dans `docs/modeles/`, sources dans `docs/sources/`, soutenance dans `docs/oral/`.
 - N'invente jamais de fait sur l'entreprise, le projet ou les chiffres : laisse `<à compléter>`.
 - Aucune donnée confidentielle d'entreprise dans le dépôt.
+- Anonymise ou généralise tout ce qui vient de l'entreprise (clients, chiffres précis, personnes), comme l'exige l'école.
+- Chaque session de travail ajoute une ligne à `docs/ia-declaration.md` (la colonne « Vérification humaine » reste à remplir par l'utilisateur).
+- Mise en forme finale des rapports : Times New Roman 12, interligne 1,5.
 - Pas de code dans le corps des rapports (l'école le déconseille) : annexes seulement.
 
 ## Langue

@@ -1,10 +1,14 @@
 # Mission 3 (PEP) : plan détaillé du rapport
 
-Rapport d'environ 50 pages en deux parties, annexes incluses. Dépôt : `EADL_PEP_M3_NOM_PRENOM.pdf`. Source : Annexe 1 du PEP (p. 123-127). Les contenus viennent du PDF ; la répartition des pages est une proposition, pondérée par le barème (le rapport d'amélioration continue vaut le plus de points).
+Rapport de 50 pages **hors annexes** en deux parties, déposé en un seul PDF sur Moodle le **21 juin 2027 à 9h**. Nom : `EADL_PEP_Nom_Prenom.pdf`. Mise en forme : Times New Roman 12, interligne 1,5.
 
-Répartition proposée : bilan de projet 22 p., rapport d'amélioration continue 24 p., bibliographie et annexes 4 p.
+Sources : Annexe 1 du PEP (p. 123-127) et diaporama « PEP M2 DEV 2026-27 ». Quand ils divergent (volume, nom de fichier, durée de l'oral), le diaporama est retenu provisoirement, en attendant la réponse de l'école (voir `docs/guide-livrables-pep.md`). La répartition des pages est une proposition, pondérée par le barème (le rapport d'amélioration continue vaut le plus de points).
 
-## Partie A : Bilan de projet (~22 pages, 0 à 6 points)
+Répartition proposée : bilan de projet 23 p., rapport d'amélioration continue 23 p., bibliographie 4 p. Annexes en plus.
+
+Le diaporama demande aussi une **démarche de recherche qualitative** (enquête interne et/ou benchmark) et un **plan d'actions chiffré, planifié, avec accompagnement au changement**. Ils sont intégrés en A3 et B4.
+
+## Partie A : Bilan de projet (~23 pages, 0 à 6 points)
 
 ### A1. Introduction et contexte général (3 p.)
 - Entreprise, service, produits concernés : `<à compléter>`
@@ -15,10 +19,11 @@ Répartition proposée : bilan de projet 22 p., rapport d'amélioration continue
 - Objectifs et indicateurs de succès (KPI, baseline).
 - Contraintes budgétaires, temporelles, réglementaires, techniques.
 
-### A3. Analyse et conception de la solution (7 p.)
-- Analyse des besoins : utilisateurs, techniques, organisationnels (1,5 p.)
+### A3. Analyse et conception de la solution (8 p.)
+- Analyse des besoins : utilisateurs, techniques, organisationnels (1 p.)
 - État de l'art et veille technologique, sources citées (1,5 p.)
-- Modélisation UML : cas d'utilisation, classes, séquences, activité (2 p.)
+- Recherche qualitative : enquête interne et/ou benchmark, avec méthode, échantillon anonymisé et résultats (2 p.)
+- Modélisation UML : cas d'utilisation, classes, séquences, activité (1,5 p.)
 - Architecture : hexagonale, microservices, cloud… (1 p.)
 - Choix technologiques argumentés : performance, sécurité, interopérabilité (1 p.)
 
@@ -34,7 +39,7 @@ Répartition proposée : bilan de projet 22 p., rapport d'amélioration continue
 - Écarts et difficultés rencontrées.
 - Enseignements tirés et pistes d'amélioration.
 
-## Partie B : Rapport d'amélioration continue (~24 pages, 1 à 9 points)
+## Partie B : Rapport d'amélioration continue (~23 pages, 1 à 9 points)
 
 ### B1. Diagnostic et mesure initiale (4 p.)
 - Situation de référence avant projet : dette technique, incidents, qualité, performance.
@@ -50,22 +55,25 @@ Répartition proposée : bilan de projet 22 p., rapport d'amélioration continue
 - Analyse d'impact : technique, organisationnel, économique.
 - Écarts à la cible et explications.
 
-### B4. Plan de pérennisation (3 p.)
+### B4. Plan de pérennisation et plan d'actions (4 p.)
 - Capitalisation : Definition of Done, rituels d'équipe.
 - Intégration de la démarche dans le cycle de vie des projets.
+- Plan d'actions technologiques : actions, chiffrage, planning, jalons.
+- Accompagnement au changement : communication, formation, adoption par l'équipe.
 - Recommandations prioritaires et risques résiduels.
 
 ### B5. Conclusion personnelle (2 p.)
 - Apports pour l'entreprise et pour le candidat.
 - Réflexion sur le rôle de l'expert en architecture logicielle dans la transformation numérique.
 
-### Point de vue et état de l'art (2 p. en plus des 22 ci-dessus, à intégrer dans B2 et B5)
+### Point de vue et état de l'art (à intégrer dans B2 et B5, sans pages en plus)
 La grille note « point de vue personnel et référence au candidat », « état de l'art » et « apport aux lecteurs » : à rendre visibles.
 
 ## Bibliographie et annexes (~4 pages)
 
 - Bibliographie : qualité et richesse des sources (0 à 1 point). Sources variées : normes, articles, documentation officielle.
-- Annexes : schémas détaillés, extraits de rapports d'outils, scripts de tests.
+- Annexes (hors des 50 pages) : schémas détaillés, extraits de rapports d'outils, scripts de tests.
+- Déclaration d'usage de l'IA (outils, tâches, vérifications humaines) : à reprendre depuis `docs/ia-declaration.md`. Son emplacement dans le rapport est à confirmer avec l'école.
 
 ## Correspondance avec la grille (p. 125-126)
 
@@ -81,11 +89,14 @@ La grille note « point de vue personnel et référence au candidat », « état
 
 ## Lien avec la soutenance
 
-Le déroulé recommandé consacre 8 min au PEP et 4 min à l'analyse transversale. Chaque partie du rapport doit pouvoir se résumer en une diapositive avec une preuve chiffrée.
+La soutenance dure 45 min : 30 min de présentation puis 15 min de questions. Le déroulé recommandé consacre 8 min au PEP et 4 min à l'analyse transversale. Chaque partie du rapport doit pouvoir se résumer en une diapositive avec une preuve chiffrée.
 
 ## Checklist
 - [ ] Les KPI de B3 sont les mêmes que ceux de B1.
 - [ ] Un cycle PDCA complet est décrit.
 - [ ] Sources citées dans le texte et dans la bibliographie.
 - [ ] Nombre de pages et orthographe vérifiés (minorations).
-- [ ] PDF avec annexes, nom de fichier conforme.
+- [ ] 50 pages hors annexes, Times New Roman 12, interligne 1,5.
+- [ ] Nom de fichier `EADL_PEP_Nom_Prenom.pdf`, un seul PDF, déposé avant le 21/06/2027 à 9h.
+- [ ] Anonymisation et RGPD vérifiés, accord de l'entreprise si nécessaire.
+- [ ] Usage de l'IA déclaré.

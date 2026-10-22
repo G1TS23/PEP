@@ -1,6 +1,6 @@
 # Plan de soutenance
 
-Total annoncé : 45 minutes. La durée de présentation est à confirmer avec l'école (voir `docs/guide-livrables-pep.md`). Le déroulé ci-dessous suit la structure recommandée de 30 minutes.
+Soutenance du PEP la semaine du 5 juillet 2027 : 45 minutes, soit 30 minutes de présentation et 15 minutes de questions (diaporama 2026-27, à confirmer avec l'école). Le déroulé ci-dessous suit la structure recommandée de 30 minutes. Le tuteur n'est pas présent.
 
 | Temps | Partie | Preuve à montrer | Diapositives |
 |---|---|---|---|

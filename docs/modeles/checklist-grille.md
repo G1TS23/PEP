@@ -5,7 +5,7 @@
 ## Forme
 - [ ] Mise en page cohérente, titres numérotés, table des matières.
 - [ ] Schémas et tableaux commentés, pas décoratifs.
-- [ ] Volume respecté (M1 ~20 p., M2 30 p. hors annexes, M3 ~50 p.).
+- [ ] Volume respecté (M1 ~20 p., M2 30 p. hors annexes, M3 50 p. hors annexes).
 - [ ] Orthographe relue : les fautes sont pénalisées.
 
 ## Fond
@@ -18,5 +18,8 @@
 
 ## Dépôt
 - [ ] Validation du maître d'apprentissage (M1 et M2).
-- [ ] Nom de fichier conforme : `EADL_Mission2_Nom_Prenom.pdf`, `EADL_PEP_M3_NOM_PRENOM.pdf`.
+- [ ] Nom de fichier conforme : `EADL_Mission2_Nom_Prenom.pdf`, `EADL_PEP_Nom_Prenom.pdf`.
+- [ ] Times New Roman 12, interligne 1,5.
+- [ ] Anonymisation et RGPD vérifiés.
+- [ ] Usage de l'IA déclaré (`docs/ia-declaration.md`).
 - [ ] PDF avec annexes.

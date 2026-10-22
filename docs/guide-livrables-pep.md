@@ -1,6 +1,8 @@
 # Guide des livrables du PEP (Mastère EADL, RNCP39765)
 
-Synthèse de l'« Annexe 1 – Présentation détaillée du PEP » (EFREI, Direction des Études PEX). Titre visé : **Expert en Architecture et Développement Logiciel**.
+Synthèse de l'« Annexe 1 – Présentation détaillée du PEP » et du diaporama « PEP M2 DEV 2026-27 » (EFREI, Direction des Études PEX). Titre visé : **Expert en Architecture et Développement Logiciel**.
+
+Quand les deux sources divergent, le diaporama (plus récent) est retenu provisoirement, en attendant la réponse de l'école.
 
 ## Vue d'ensemble
 
@@ -8,9 +10,31 @@ Synthèse de l'« Annexe 1 – Présentation détaillée du PEP » (EFREI, Direc
 |---|---|---|---|---|
 | Mission 1 | Présentation de l'entreprise et du contexte de travail | ~20 pages | non précisé | maître d'apprentissage |
 | Mission 2 | Mission technique réalisée (S2 de la 1re année) | 30 pages hors annexes | `EADL_Mission2_Nom_Prenom.pdf` | maître d'apprentissage |
-| Mission 3 (PEP) | Bilan de projet + rapport d'amélioration continue | ~50 pages, annexes incluses | `EADL_PEP_M3_NOM_PRENOM.pdf` | soutenance |
+| Mission 3 (PEP) | Bilan de projet + rapport d'amélioration continue | 50 pages hors annexes (diaporama) ; ~50 pages annexes incluses (Annexe 1) | `EADL_PEP_Nom_Prenom.pdf` (diaporama) ; `EADL_PEP_M3_NOM_PRENOM.pdf` (Annexe 1) | soutenance |
 
 La Mission 2 fait la transition entre le contexte d'entreprise (Mission 1) et le PEP final (Mission 3, à forte dimension stratégique).
+
+## Cadrage du PEP 2026-27 (diaporama)
+
+| Sujet | Contenu |
+|---|---|
+| Rendu | Un seul PDF sur Moodle le **lundi 21 juin 2027 à 9h**. Relance une semaine avant. Pas de note du tuteur entreprise. |
+| Mise en forme | Times New Roman 12, interligne 1,5. Respect de l'anonymisation et du RGPD, citations et licences. |
+| IA | Usage déclaré : outils, tâches, vérifications humaines (voir `docs/ia-declaration.md`). |
+| Soutenance | Semaine du **5 juillet 2027**. 45 min : 30 min de présentation + 15 min de questions, jury de professionnels externes, tuteur absent. Annulée en cas de rendu hors délai. |
+| Évaluation | Rapport écrit coefficient 4, oral coefficient 6 (total 200 points). Bloc validé à 10/20 minimum ; entre 7 et 9,9 : rattrapage ; en dessous de 7 : non validé. Grilles transmises au cours de l'année. |
+| Tutorat | Imane HABBOUB-KAJIOU. G1 : 4/12, 3/03, 14/04, 15/06. G2 : 2/12, 23/03, 16/04, 27/05. G3 : 1/12, 4/03, 15/04, 28/05. |
+| Contenu attendu | Plan de la Mission 3, plus une **démarche de recherche qualitative** (enquête interne et/ou benchmark) et un **plan d'actions chiffré, planifié, avec accompagnement au changement**. |
+
+### Confidentialité
+
+- Vérifier la clause de confidentialité ou de non-divulgation signée avec l'entreprise.
+- Pas de chiffres précis (chiffre d'affaires, marges, salaires), de noms de clients ou fournisseurs, ni de données personnelles sans autorisation.
+- En cas de doute : anonymiser ou généraliser (ordres de grandeur, entreprise renommée).
+- Certaines entreprises exigent une relecture avant diffusion ou soutenance : anticiper.
+- Un passage problématique peut être retiré avant le dépôt final.
+
+Le tableau d'évaluation du diaporama est coupé en haut dans le PDF : seuls les coefficients 4 et 6 sont lisibles.
 
 ## Conseils communs aux trois livrables
 
@@ -100,7 +124,7 @@ Le rapport d'amélioration continue est le bloc le plus pondéré.
 
 ## Soutenance
 
-Devant un jury de professionnels et de représentants pédagogiques. Le jury ne juge pas l'exactitude des solutions mais la capacité à **comprendre et articuler la mission**, analyser les enjeux, formuler des recommandations et garantir leur faisabilité. Présentation synthétique, appuyée de preuves concrètes (dashboards, schémas, démonstrations).
+Durée : 45 min, soit 30 min de présentation et 15 min de questions (diaporama). Devant un jury de professionnels et de représentants pédagogiques. Le jury ne juge pas l'exactitude des solutions mais la capacité à **comprendre et articuler la mission**, analyser les enjeux, formuler des recommandations et garantir leur faisabilité. Présentation synthétique, appuyée de preuves concrètes (dashboards, schémas, démonstrations).
 
 ### Déroulé recommandé
 
@@ -120,26 +144,30 @@ Devant un jury de professionnels et de représentants pédagogiques. Le jury ne 
 
 ## Points à clarifier avec l'école
 
-Brouillon de message, sans destinataire.
+Brouillon de message, sans destinataire. Il s'appuie sur l'Annexe 1 et sur le diaporama 2026-27.
 
-> **Objet : Questions sur l'Annexe 1 du PEP (EADL, RNCP39765)**
+> **Objet : Questions sur les consignes du PEP (EADL, RNCP39765)**
 >
 > Bonjour,
 >
-> En préparant mes livrables à partir de l'Annexe 1, j'ai relevé quelques points qui me semblent incohérents ou ambigus, et sur lesquels j'aimerais votre confirmation :
+> En préparant mes livrables à partir de l'Annexe 1 et du diaporama de cadrage, j'ai relevé quelques points qui me semblent incohérents ou ambigus, et sur lesquels j'aimerais votre confirmation :
 >
-> 1. **Durée de la soutenance (p. 123 et 126-127).** Le document annonce 25 min de présentation + 20 min de questions (p. 123), une soutenance de 45 min dont une structure recommandée de 30 min (p. 126), et un critère de minoration sur le « respect de la durée (15 mn) » (p. 127). Quelle durée de présentation faut-il respecter ?
+> 1. **Durée de la soutenance.** Le diaporama 2026-27 annonce 30 min de présentation + 15 min de questions. L'Annexe 1 annonce 25 min + 20 min (p. 123), et la grille orale mentionne « respect de la durée (15 mn) » (p. 127). Pouvez-vous confirmer 30 + 15, et préciser à quoi se rapportent les 15 minutes de la grille ?
 > 2. **Grille d'évaluation de la Mission 2 (p. 122).** Les critères du « compte-rendu » (environnement, méthodologie, cartographie du SI…) s'inspirent de ceux de la Mission 1 et ne reflètent pas les parties demandées p. 120-121 (architecture et conception, réalisation et preuves, DevSecOps). Quels critères seront réellement appliqués ?
 > 3. **Format de dépôt de la Mission 1 (p. 118).** Les Missions 2 et 3 précisent un nom de fichier PDF, mais pas la Mission 1. Quel format et quel nom utiliser ?
 > 4. **Barème du rapport d'amélioration continue (p. 126).** L'échelle est 1, 3, 4, 7, 9 : elle ne commence pas à 0 comme les autres critères et ses écarts sont irréguliers. S'agit-il d'un minimum garanti de 1 point, ou d'une coquille ?
-> 5. **Soutenance et livrables précédents (p. 126).** Le déroulé consacre 5 min à la Mission 1 et 7 min à la Mission 2, mais la grille orale (p. 127) évalue le fond sur « compte rendu » et « travail réalisé ». Le rapport de la Mission 3 est-il bien le support principal de l'oral ?
+> 5. **Soutenance et livrables précédents (Annexe 1, p. 126).** Le déroulé consacre 5 min à la Mission 1 et 7 min à la Mission 2, mais la grille orale (p. 127) évalue le fond sur « compte rendu » et « travail réalisé ». Le rapport de la Mission 3 est-il bien le support principal de l'oral ?
+>
+> 6. **Volume et nom de fichier du PEP.** Le diaporama demande 50 pages hors annexes et `EADL_PEP_Nom_Prenom.pdf` ; l'Annexe 1 demande environ 50 pages annexes incluses et `EADL_PEP_M3_NOM_PRENOM.pdf`. Quelle consigne s'applique ?
+> 7. **Missions 1 et 2.** Le diaporama ne mentionne que le rapport écrit (coefficient 4) et l'oral (coefficient 6). Les rapports des Missions 1 et 2 sont-ils évalués séparément, et selon quelle grille ?
+> 8. **Déclaration d'usage de l'IA.** Où doit-elle figurer (annexe, page dédiée) et sous quelle forme ?
 >
 > Merci d'avance.
 > Cordialement,
 
 ## Checklist avant dépôt
 
-- [ ] Volume respecté (20 / 30 hors annexes / ~50 pages).
+- [ ] Volume respecté (20 / 30 hors annexes / 50 hors annexes).
 - [ ] Validation du maître d'apprentissage obtenue (Missions 1 et 2).
 - [ ] Chaque choix technique est justifié et comparé à des alternatives.
 - [ ] Chaque affirmation clé a une preuve (log, capture, métrique, KPI).
@@ -147,3 +175,7 @@ Brouillon de message, sans destinataire.
 - [ ] Sources citées et bibliographie.
 - [ ] Orthographe relue.
 - [ ] Nom de fichier conforme et export PDF avec annexes.
+- [ ] Times New Roman 12, interligne 1,5.
+- [ ] Anonymisation, RGPD et accord de l'entreprise vérifiés.
+- [ ] Usage de l'IA déclaré.
+- [ ] Rendu avant le 21/06/2027 à 9h (PEP).
